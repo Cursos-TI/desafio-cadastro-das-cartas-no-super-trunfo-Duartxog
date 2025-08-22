@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    // Estruturas para armazenar os dados de cada carta
+    // Variáveis para armazenar os dados de cada carta
     char estado1, estado2;
     int cidade1, cidade2;
     int populacao1, populacao2;
